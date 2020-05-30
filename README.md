@@ -1,4 +1,5 @@
 # EDA Approch
+- Heat Map for correlation
 - Boxplot
 - Scatterplot
 - z score
