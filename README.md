@@ -4,3 +4,4 @@
 - Scatterplot
 - z score
 - IQR Score
+# SVR
